@@ -2,5 +2,5 @@
 Gyakorló repo a projektmunkához 2. nekifutás
 
 # Csapattagok névsora:  
-- Németh Zalán  
-- Széphalmi Áron  
+> Németh Zalán  
+> Széphalmi Áron  
